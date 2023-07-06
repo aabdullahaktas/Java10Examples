@@ -1,0 +1,5 @@
+package lesson21.movieApp;
+
+public enum ETur {
+	KORKU,GERILIM,DRAMA,GIZEM,KOMEDI,ANIME,BILIM_KURGU,ANIMASYON,KARA_MIZAH
+}
